@@ -1,0 +1,17 @@
+--2020-12-28 23:16:56--  https://www.rpmseek.com/download/ftp://ftp.jp.debian.org/debian/pool/main/a/audacity/audacity_2.0.5-1_amd64.deb?hl=com
+Resolving www.rpmseek.com (www.rpmseek.com)... 85.214.60.158
+Connecting to www.rpmseek.com (www.rpmseek.com)|85.214.60.158|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: ftp://ftp.jp.debian.org/debian/pool/main/a/audacity/audacity_2.0.5-1_amd64.deb [following]
+--2020-12-28 23:16:58--  ftp://ftp.jp.debian.org/debian/pool/main/a/audacity/audacity_2.0.5-1_amd64.deb
+           => ‘audacity_2.0.5-1_amd64.deb?hl=com’
+Resolving ftp.jp.debian.org (ftp.jp.debian.org)... 133.5.166.3
+Connecting to ftp.jp.debian.org (ftp.jp.debian.org)|133.5.166.3|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /debian/pool/main/a/audacity ... done.
+==> SIZE audacity_2.0.5-1_amd64.deb ... done.
+
+==> PASV ... done.    ==> RETR audacity_2.0.5-1_amd64.deb ... 
+No such file ‘audacity_2.0.5-1_amd64.deb’.
+
